@@ -1,0 +1,15 @@
+C:/Users/HARSHITH/Desktop/Verilog/ROM/ROM/ROM_1Kb.v {1 {vlog -work work -stats=none C:/Users/HARSHITH/Desktop/Verilog/ROM/ROM/ROM_1Kb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom_8B
+
+Top level modules:
+	rom_8B
+
+} {} {}} C:/Users/HARSHITH/Desktop/Verilog/ROM/ROM/rom_1kb_tb.v {1 {vlog -work work -stats=none C:/Users/HARSHITH/Desktop/Verilog/ROM/ROM/rom_1kb_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom_8B_tb
+
+Top level modules:
+	rom_8B_tb
+
+} {} {}}
